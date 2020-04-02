@@ -644,6 +644,8 @@ self.C3_JsPropNameTable = [
 	{pedro: 0},
 	{Tween: 0},
 	{obj_fade: 0},
+	{Logo_conteúdo_digital_educacional: 0},
+	{Logo_conteúdo_digital_educacional2: 0},
 	{valor_ana_tela2: 0},
 	{valor_pedro_tela2: 0},
 	{valor_dif_tela3: 0},
@@ -778,7 +780,8 @@ self.C3_JsPropNameTable = [
 		() => 540,
 		() => 1920,
 		() => 1080,
-		() => ""
+		() => "",
+		() => 0.7
 	];
 }
 
